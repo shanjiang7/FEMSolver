@@ -1,0 +1,33 @@
+build/
+*.gz
+*.csv
+*.json
+.vscode
+*.gcno
+*.gcda
+*.png
+Makefile
+*.h5
+*.swp
+Temporary
+.log
+*.[^.]
+**/*.h5
+
+# Prerequisites
+*.d
+
+#docker containers
+*.sif
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.app
+*.out
+

@@ -1,0 +1,8 @@
+[mesh]
+mesh_division = 30
+[solver]
+n = 0
+notify_freq = 10
+max_iter = 1000
+tolerance = 1e-7
+verbosity = 2
